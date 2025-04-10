@@ -1,0 +1,16 @@
+authors:
+  mercury:
+    name: Mercury Team
+    description: Mercury Team at BBVA AI Factory
+    avatar: assets/mercury_logo_only.png
+    url: https://www.bbvaaifactory.com/mercury/
+  fran-mm:
+    name: Francisco Moraleda
+    description: Data Scientist
+    avatar: https://media.licdn.com/dms/image/v2/D4D03AQGCjuHOSH359w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695753325294?e=2147483647&v=beta&t=knbGzqa_tTq-6IhaB1gBOgwEksdXnSZj69Ybm6aeYR0
+    url: https://es.linkedin.com/in/francisco-mm
+  santi-bl:
+    name: Santiago Basaldua
+    description: Senior Data Scientist
+    avatar: https://www.bbvaaifactory.com/wp-content/uploads/santiago_basaldua.jpeg
+    url: https://es.linkedin.com/in/santiagobasaldua
