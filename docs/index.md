@@ -31,13 +31,11 @@ This library was originally an Inner Source project at BBVA, but now some assets
 
 We work to ensure that Mercury continues to grow and release new assets. The Mercury core team maintains the library updated and proactively develops new functionalities.
 
-<div style="height: 1px;"></div>
-
-<br>
+<div style="height: 15px;"></div>
 
 <hr>
 
-<br>
+<div style="height: 15px;"></div>
 
 # Mercury’s Micro-Repositories
 
@@ -105,13 +103,11 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
 </div>
 
-<div style="height: 1px;"></div>
-
-<br>
+<div style="height: 15px;"></div>
 
 <hr>
 
-<br>
+<div style="height: 15px;"></div>
 
 # Mercury Strengths
 
@@ -141,13 +137,11 @@ Every function or class in Mercury has been thoroughly tested and documented by 
 
 In Mercury, you may find a representative sample of relevant ML domains for financial services such as explainability, monitoring, or sequence modeling.
 
-<div style="height: 1px;"></div>
-
-<br>
+<div style="height: 15px;"></div>
 
 <hr>
 
-<br>
+<div style="height: 15px;"></div>
 
 # Our journey to Open-Source
 
