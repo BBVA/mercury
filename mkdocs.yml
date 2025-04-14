@@ -45,9 +45,9 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
   - Blog:
     - blog/index.md
+  - About BBVA AI Factory: about.md
 
 extra:
   social:
