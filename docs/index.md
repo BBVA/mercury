@@ -109,7 +109,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
 <div style="height: 15px;"></div>
 
-# Mercury Strengths
+# Mercury's strengths
 
 Each Mercury component brings something new or offers clear advantages over other available analytical solutions. The modules are functional and production-ready, and they are designed as pieces of code that are not tied to specific business cases, so anyone can use them.
 
