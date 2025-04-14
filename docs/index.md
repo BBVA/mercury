@@ -31,13 +31,11 @@ This library was originally an Inner Source project at BBVA, but now some assets
 
 We work to ensure that Mercury continues to grow and release new assets. The Mercury core team maintains the library updated and proactively develops new functionalities.
 
-<div style="height: 1px;"></div>
-
-<br>
+<div style="height: 15px;"></div>
 
 <hr>
 
-<br>
+<div style="height: 15px;"></div>
 
 # Mercury’s Micro-Repositories
 
@@ -51,7 +49,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    Utility package that automatically infers feature types and calculates different statistics based on those types, given a Pandas DataFrame. It is very useful for validating whether different datasets match the same schema, or for using their statistics to calculate drift.
+    Utility package that **automatically infers feature types and calculates different statistics** based on those types, given a Pandas DataFrame. It is very useful for validating whether different datasets match the same schema, or for using their statistics to calculate drift.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-dataschema/site/)
 
@@ -59,7 +57,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    Offers a collection of methods and techniques to interpret and inspect ML models. This package focuses on providing explanations for classification and regression models, both locally and globally, to gain a better understanding of how an ML model works and the factors that contribute to its predictions.
+    Offers a collection of **methods and techniques to interpret and inspect ML models**. This package focuses on providing explanations for classification and regression models, both locally and globally, to gain a better understanding of how an ML model works and the factors that contribute to its predictions.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-explainability/site/)
 
@@ -67,7 +65,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    Package dedicated to model monitoring. It’s crucial to continuously monitor the performance of ML models in production. This involves detecting changes in the incoming data distribution or data drift and estimating the model accuracy at inference time.
+    Package dedicated to model monitoring. It’s crucial to **continuously monitor the performance of ML models in production**. This involves detecting changes in the incoming data distribution or data drift and estimating the model accuracy at inference time.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-monitoring/site/)
 
@@ -75,7 +73,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    A library to analyze sequences of events extracted from transactional data. These events can be automatically discovered or manually defined.
+    A library to **analyze sequences of events extracted from transactional data**. These events can be automatically discovered or manually defined.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-reels/)
 
@@ -83,7 +81,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    A lightweight framework for performing robust testing on ML models and datasets. It ensures that data workflows and models are robust against certain conditions, such as data drift, label leaking, or input data schema issues, by raising an exception when they fail.
+    A lightweight framework for performing **robust testing on ML models and datasets**. It ensures that data workflows and models are robust against certain conditions, such as data drift, label leaking, or input data schema issues, by raising an exception when they fail.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-robust/site/)
 
@@ -91,7 +89,7 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    A Python library for creating, updating, and querying SetTrie objects efficiently. To ensure high performance, it uses an underlying C++ implementation, which optimizes subset and superset search operations.
+    A Python library for **creating, updating, and querying SetTrie objects efficiently**. To ensure high performance, it uses an underlying **C++ implementation**, which optimizes subset and superset search operations.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-settrie/)
 
@@ -99,21 +97,19 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     ---
 
-    This library offers graph analytics capabilities with a technology-agnostic API, enabling users to apply a curated range of performant and scalable algorithms and utilities regardless of the underlying data framework.
+    This library offers **graph analytics capabilities with a technology-agnostic API**, enabling users to apply a curated range of performant and scalable algorithms and utilities regardless of the underlying data framework.
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-graph/site/)
 
 </div>
 
-<div style="height: 1px;"></div>
-
-<br>
+<div style="height: 15px;"></div>
 
 <hr>
 
-<br>
+<div style="height: 15px;"></div>
 
-# Mercury Strengths
+# Mercury's strengths
 
 Each Mercury component brings something new or offers clear advantages over other available analytical solutions. The modules are functional and production-ready, and they are designed as pieces of code that are not tied to specific business cases, so anyone can use them.
 
@@ -141,13 +137,11 @@ Every function or class in Mercury has been thoroughly tested and documented by 
 
 In Mercury, you may find a representative sample of relevant ML domains for financial services such as explainability, monitoring, or sequence modeling.
 
-<div style="height: 1px;"></div>
-
-<br>
+<div style="height: 15px;"></div>
 
 <hr>
 
-<br>
+<div style="height: 15px;"></div>
 
 # Our journey to Open-Source
 
