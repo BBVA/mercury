@@ -3,8 +3,8 @@ site_description: A personal blog about various topics
 site_author: Your Name
 site_url: https://www.bbvaaifactory.com/mercury/
 
-docs_dir: docs
-site_dir: site
+docs_dir: src
+site_dir: docs
 
 theme:
   name: 'material'
