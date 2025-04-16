@@ -1,6 +1,5 @@
 ---
 authors:
-  - mercury
   - fran-mm
 date: 2025-04-14
 categories:

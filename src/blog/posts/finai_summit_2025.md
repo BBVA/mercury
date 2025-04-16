@@ -1,6 +1,5 @@
 ---
 authors:
-  - mercury
   - dani-ss
   - marcos-gr
 date: 2025-04-16
