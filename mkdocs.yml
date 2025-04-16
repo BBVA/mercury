@@ -69,6 +69,7 @@ plugins:
   - blog:
       blog_dir: blog
       authors_file: "{blog}/.authors.yml"
+      post_url_date_format: yyyy
   - search
   - mkdocstrings:
       handlers:

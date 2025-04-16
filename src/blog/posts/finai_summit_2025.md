@@ -11,6 +11,7 @@ tags:
 links:
   - FinAI Summit website: https://finaisummit.com/
 readtime: 2
+slug: finai_summit
 ---
 
 # FinAI Summit 2025: Create and speed up your ML solution with Mercury

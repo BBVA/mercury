@@ -10,6 +10,7 @@ tags:
 links:
   - BBVA AI Factory website: https://www.bbvaaifactory.com/
 readtime: 1
+slug: welcome
 ---
 
 # Welcome to the Mercury Blog!
