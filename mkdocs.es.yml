@@ -45,10 +45,10 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Home: index.md
+  - Inicio: index.md
   - Blog:
     - blog/index.md
-  - About BBVA AI Factory: about.md
+  - Sobre BBVA AI Factory: about.md
 
 extra:
   social:
