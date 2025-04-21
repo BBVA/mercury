@@ -19,7 +19,7 @@ Implementa soluciones de machine learning eficientes y robustas con las mejores 
 
 <!-- more -->
 
-### Prepárate para la masterclass!
+### ¡Prepárate para la masterclass!
 
 [Descarga el dataset](../../data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" }
 

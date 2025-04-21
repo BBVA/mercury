@@ -17,9 +17,9 @@ Mercury ofrece una variedad de herramientas y utilidades que simplifican y acele
 
 <div style="height: 1px;"></div>
 
-![Utiliza Mercury y contribuye!](assets/index_2.png){ align=left width="120" }
+![Utiliza Mercury y contribuye](assets/index_2.png){ align=left width="120" }
 
-### Utiliza Mercury y contribuye!
+### ¡Utiliza Mercury y contribuye!
 
 Esta librería fue originalmente un proyecto “inner source” en BBVA, ¡pero ahora algunos módulos son open-source! Invitamos a todos a usarla y contribuir: juntos, podemos mejorarla y hacerla más útil.
 

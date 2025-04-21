@@ -33,6 +33,6 @@ Colaboramos estrechamente con las unidades de negocio del banco y trabajamos en 
 
 <div markdown="1" style="height: 20px;"></div>
 
-[Más sobre BBVA AI Factory](https://www.bbvaaifactory.com/){ .md-button  style="display:inline-block; margin:0 5px; padding:5px 10px;" }
+[Más sobre BBVA AI Factory](https://www.bbvaaifactory.com/es/){ .md-button  style="display:inline-block; margin:0 5px; padding:5px 10px;" }
 
 <br>
