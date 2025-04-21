@@ -14,7 +14,7 @@ slug: welcome
 
 # ¡Bienvenido/a al blog de Mercury!
 
-¡Bienvenido/a al blog de Mercury! Estamos encantados de presentarte Mercury, una librería Python para machine learning y ciencia de datos que comenzó como un proyecto de código interno dentro de [BBVA](https://www.bbva.es/es/).
+¡Bienvenido/a al blog de Mercury! Estamos encantados de presentarte Mercury, una librería Python para machine learning y ciencia de datos que comenzó como un proyecto de código interno dentro de [BBVA](https://www.bbva.es/).
 
 <!-- more -->
 

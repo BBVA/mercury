@@ -5,7 +5,7 @@ hide:
 
 # Mercury: la librería de Python de BBVA para *Machine Learning* y *Data Science*
 
-Contribuimos a la comunidad open-source con Mercury, la librería de Python de [BBVA](https://www.bbva.es/es/) para machine learning y ciencia de datos. Descubre este completo conjunto de herramientas diseñadas para acelerar la creación de modelos de IA.
+Contribuimos a la comunidad open-source con Mercury, la librería de Python de [BBVA](https://www.bbva.es/) para machine learning y ciencia de datos. Descubre este completo conjunto de herramientas diseñadas para acelerar la creación de modelos de IA.
 
 <div style="height: 1px;"></div>
 
