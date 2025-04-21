@@ -1,0 +1,41 @@
+authors:
+  mercury:
+    name: Mercury Team
+    description: Mercury Team en BBVA AI Factory
+    avatar: assets/mercury_logo_only.png
+    url: https://www.bbvaaifactory.com/mercury/
+  jacobo-cu:
+    name: Jacobo Chaquet
+    description: Data Scientist Manager
+    avatar: https://media.licdn.com/dms/image/C5603AQFpXwb_KHVe9g/profile-displayphoto-shrink_200_200/0/1517376852153?e=2147483647&v=beta&t=ptxduu7mBpUPOCVh6eYcBBV9tVB0XEGwrsZomsL4F3M
+    url: https://es.linkedin.com/in/jacobo-chaquet
+  santi-bl:
+    name: Santiago Basaldua
+    description: Data Scientist
+    avatar: https://www.bbvaaifactory.com/wp-content/uploads/santiago_basaldua.jpeg
+    url: https://es.linkedin.com/in/santiagobasaldua
+  dani-ss:
+    name: Daniel Sanchez
+    description: Data Scientist
+    avatar: https://www.bbvaaifactory.com/wp-content/uploads/daniel_sanchez.jpeg
+    url: https://es.linkedin.com/in/daniel-sanchez-santolaya
+  marcos-gr:
+    name: Marcos Galletero
+    description: Data Scientist
+    avatar: https://www.bbvaaifactory.com/wp-content/uploads/MG_2892.jpg
+    url: https://es.linkedin.com/in/marcosgalletero
+  oscar-vg:
+    name: Oscar Vazquez
+    description: ML Engineer
+    avatar: https://media.licdn.com/dms/image/v2/D4D03AQERUS2B1qWVWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1667752950268?e=2147483647&v=beta&t=M0UvOJKT6QGcBLLWYS7VFJv1IaQyg2E-pB2MtO3uRLY
+    url: https://es.linkedin.com/in/oscar-vazquez-gonzalez
+  carlos-gg:
+    name: Carlos Gonzalez
+    description: Data Scientist
+    avatar: https://media.licdn.com/dms/image/v2/D4D03AQHI4DYA62v-6A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727685680155?e=2147483647&v=beta&t=9jT7m7O68U4iD2zgVwP9pQaflqfODWLJup8OH0zCN5U
+    url: https://es.linkedin.com/in/carlos-g-b40417223
+  fran-mm:
+    name: Francisco Moraleda
+    description: Data Scientist
+    avatar: https://media.licdn.com/dms/image/v2/D4D03AQGCjuHOSH359w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695753325294?e=2147483647&v=beta&t=knbGzqa_tTq-6IhaB1gBOgwEksdXnSZj69Ybm6aeYR0
+    url: https://es.linkedin.com/in/francisco-mm

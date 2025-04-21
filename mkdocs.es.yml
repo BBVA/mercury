@@ -1,0 +1,110 @@
+site_name: Mercury
+site_description: Mercury Blog @ BBVA AI Factory
+site_author: Mercury Team
+site_url: https://bbva.github.io/mercury/es/
+
+docs_dir: src/es/
+site_dir: docs/es/
+
+theme:
+  name: 'material'
+  language: es
+  custom_dir: overrides
+  logo: assets/bbva_white.png
+  homepage: https://www.bbvaaifactory.com/mercury/
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.sections
+    - navigation.path
+    - navigation.expand
+    - navigation.top
+    - navigation.instant
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.footnote.tooltips
+  font:
+    text: Lato
+  palette: 
+    # - media: "(prefers-color-scheme: light)"
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # - media: "(prefers-color-scheme: dark)"
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+  - About BBVA AI Factory: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://es.linkedin.com/showcase/bbva-ai-factory/
+    - icon: fontawesome/brands/x-twitter 
+      link: https://x.com/bbva_aifactory
+  generator: false
+  alternate:
+    - name: "🇺🇸 English"
+      link: /en/ 
+      lang: en
+    - name: "🇪🇸 Español"
+      link: /es/ 
+      lang: es
+
+extra_css:
+- assets/stylesheets/extra.css
+extra_javascript:
+- assets/javascripts/extra.js
+- https://polyfill.io/v3/polyfill.min.js?features=es6
+- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - tags
+  - meta
+  - blog:
+      blog_dir: blog
+      authors_file: "{blog}/.authors.yml"
+      post_url_date_format: yyyy
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_root_heading: true
+            show_submodules: true
+            merge_init_into_class: true
+            docstring_style: google
+
+markdown_extensions:
+  - codehilite
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: 2025 BBVA AI Factory
