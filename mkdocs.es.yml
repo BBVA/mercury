@@ -11,6 +11,7 @@ theme:
   language: es
   custom_dir: overrides
   logo: assets/bbva_white.png
+  favicon: assets/bbva_ascend.svg
   homepage: https://www.bbvaaifactory.com/mercury/
   features:
     - navigation.tabs
