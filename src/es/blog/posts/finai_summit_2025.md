@@ -21,7 +21,7 @@ Implementa soluciones de machine learning eficientes y robustas con las mejores 
 
 ### ¡Prepárate para la masterclass!
 
-[Descarga el dataset](../../data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" }
+[Descarga el dataset](https://raw.githubusercontent.com/BBVA/mercury/refs/heads/master/src/data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" }
 
 ### Sobre la masterclass
 

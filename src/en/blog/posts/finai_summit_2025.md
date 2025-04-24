@@ -21,7 +21,7 @@ Build robust, efficient, and scalable machine learning pipelines with modern too
 
 ### Get ready for the masterclass!
 
-[Download dataset](../../data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" }
+[Download dataset](https://raw.githubusercontent.com/BBVA/mercury/refs/heads/master/src/data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" }
 
 ### About the masterclass
 
