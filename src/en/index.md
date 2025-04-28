@@ -51,6 +51,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     Utility package that **automatically infers feature types and calculates different statistics** based on those types, given a Pandas DataFrame. It is very useful for validating whether different datasets match the same schema, or for using their statistics to calculate drift.
 
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-dataschema)
+
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-dataschema/site/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-explainability__
@@ -58,6 +60,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
     ---
 
     Offers a collection of **methods and techniques to interpret and inspect ML models**. This package focuses on providing explanations for classification and regression models, both locally and globally, to gain a better understanding of how an ML model works and the factors that contribute to its predictions.
+
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-explainability)
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-explainability/site/)
 
@@ -67,6 +71,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     Package dedicated to model monitoring. It’s crucial to **continuously monitor the performance of ML models in production**. This involves detecting changes in the incoming data distribution or data drift and estimating the model accuracy at inference time.
 
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-monitoring)
+
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-monitoring/site/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-reels__
@@ -74,6 +80,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
     ---
 
     A library to **analyze sequences of events extracted from transactional data**. These events can be automatically discovered or manually defined.
+
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-reels)
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-reels/)
 
@@ -83,6 +91,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     A lightweight framework for performing **robust testing on ML models and datasets**. It ensures that data workflows and models are robust against certain conditions, such as data drift, label leaking, or input data schema issues, by raising an exception when they fail.
 
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-robust)
+
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-robust/site/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-settrie__
@@ -91,6 +101,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
 
     A Python library for **creating, updating, and querying SetTrie objects efficiently**. To ensure high performance, it uses an underlying **C++ implementation**, which optimizes subset and superset search operations.
 
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-settrie)
+
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-settrie/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-graph__
@@ -98,6 +110,8 @@ Mercury is structured with multiple micro-repositories in a highly modular desig
     ---
 
     This library offers **graph analytics capabilities with a technology-agnostic API**, enabling users to apply a curated range of performant and scalable algorithms and utilities regardless of the underlying data framework.
+
+    [:octicons-mark-github-24: GitHub repository](https://github.com/BBVA/mercury-graph)
 
     [:octicons-arrow-right-24: Documentation](https://bbva.github.io/mercury-graph/site/)
 

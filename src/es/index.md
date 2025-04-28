@@ -51,6 +51,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
 
     Paquete de utilidades que **infiere automáticamente tipos de features y calcula diferentes estadísticas** basadas en esos tipos, dado un DataFrame de Pandas. Es muy útil para validar si diferentes conjuntos de datos coinciden con el mismo esquema, o para utilizar sus estadísticas para calcular la desviación del modelo (drift).
 
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-dataschema)
+
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-dataschema/site/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-explainability__
@@ -58,6 +60,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
     ---
 
     Ofrece una colección de **métodos y técnicas para interpretar e inspeccionar modelos de ML**. Este paquete se centra en ofrecer explicaciones de los modelos de clasificación y regresión, tanto a nivel local como global, para comprender mejor cómo funciona un modelo y los factores que influyen en sus predicciones.
+
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-explainability)
 
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-explainability/site/)
 
@@ -67,6 +71,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
 
     PPaquete dedicado a la monitorización de modelos. Es crucial **supervisar continuamente el rendimiento de los modelos de ML en producción**. Esto implica detectar cambios en la distribución de los datos entrantes o la desviación de los datos (data drift), y estimar la precisión del modelo en el momento de inferencia.
 
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-monitoring)
+
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-monitoring/site/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-reels__
@@ -74,6 +80,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
     ---
 
     Una librería para **analizar secuencias de eventos extraídos de datos transaccionales**. Estos eventos pueden descubrirse automáticamente o definirse manualmente.
+
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-reels)
 
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-reels/)
 
@@ -83,6 +91,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
 
     Un framework ligero para realizar **pruebas de solidez en modelos de ML y conjuntos de datos**. Garantiza que los flujos de trabajo de datos y los modelos sean robustos frente a determinadas condiciones, como la desviación de datos (data drift), las fugas de etiquetas o los problemas de esquema de datos de entrada, lanzando una excepción cuando fallan.
 
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-robust)
+
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-robust/site/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-settrie__
@@ -91,6 +101,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
 
     Una librería de Python que permite **crear, actualizar y consultar objetos SetTrie de forma eficiente**. Para garantizar un alto rendimiento, utiliza una **implementación subyacente en C++**, lo que optimiza las operaciones de búsqueda de subsets y supersets.
 
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-settrie)
+
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-settrie/)
 
 -   :fontawesome-brands-github:{ .lg .middle } __mercury-graph__
@@ -98,6 +110,8 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
     ---
 
     Esta librería ofrece funciones de **análisis de grafos con una API agnóstica a la tecnología**, lo que permite a los usuarios aplicar una amplia gama de algoritmos y utilidades escalables y de alto rendimiento con independencia del framework de datos subyacente.
+
+    [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-graph)
 
     [:octicons-arrow-right-24: Documentación](https://bbva.github.io/mercury-graph/site/)
 
