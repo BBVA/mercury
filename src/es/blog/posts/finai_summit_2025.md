@@ -21,7 +21,9 @@ Implementa soluciones de machine learning eficientes y robustas con las mejores 
 
 ### ¡Prepárate para la masterclass!
 
-[Descarga el dataset](https://raw.githubusercontent.com/BBVA/mercury/refs/heads/master/src/data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" }
+Accede al notebook de la masterclass en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BBVA/mercury/blob/master/src/notebooks/finai_summit_2025/hands_on.ipynb)
+
+<!-- [Descarga el dataset](https://raw.githubusercontent.com/BBVA/mercury/refs/heads/master/src/data/finai_summit_2025/dataset.csv){ .md-button .md-button--primary :download="dataset.csv" } -->
 
 ### Sobre la masterclass
 
