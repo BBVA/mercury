@@ -69,7 +69,7 @@ Mercury se organiza en múltiples micro repositorios, con un diseño modular. Es
 
     ---
 
-    PPaquete dedicado a la monitorización de modelos. Es crucial **supervisar continuamente el rendimiento de los modelos de ML en producción**. Esto implica detectar cambios en la distribución de los datos entrantes o la desviación de los datos (data drift), y estimar la precisión del modelo en el momento de inferencia.
+    Paquete dedicado a la monitorización de modelos. Es crucial **supervisar continuamente el rendimiento de los modelos de ML en producción**. Esto implica detectar cambios en la distribución de los datos entrantes o la desviación de los datos (data drift), y estimar la precisión del modelo en el momento de inferencia.
 
     [:octicons-mark-github-24: Repositorio de GitHub](https://github.com/BBVA/mercury-monitoring)
 
