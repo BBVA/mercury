@@ -29,7 +29,7 @@ theme:
     - content.footnote.tooltips
   font:
     text: Lato
-  palette: 
+  palette:
     # - media: "(prefers-color-scheme: light)"
     - scheme: default
       primary: custom
@@ -53,24 +53,23 @@ nav:
 
 extra:
   social:
-    - icon: fontawesome/brands/linkedin 
+    - icon: fontawesome/brands/linkedin
       link: https://es.linkedin.com/showcase/bbva-ai-factory/
-    - icon: fontawesome/brands/x-twitter 
+    - icon: fontawesome/brands/x-twitter
       link: https://x.com/bbva_aifactory
   generator: false
   alternate:
     - name: "🇺🇸 English"
-      link: /en/ 
+      link: /en/
       lang: en
     - name: "🇪🇸 Español"
-      link: /es/ 
+      link: /es/
       lang: es
 
 extra_css:
 - assets/stylesheets/extra.css
 extra_javascript:
 - assets/javascripts/extra.js
-- https://polyfill.io/v3/polyfill.min.js?features=es6
 - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
